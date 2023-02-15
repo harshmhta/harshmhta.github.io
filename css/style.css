@@ -1,26 +1,15 @@
 body {
-  font-family: 'Alatsi', sans-serif;
-  margin: 0;
-  overflow: hidden;
+  background-image: url('/assets/kDSnoXA3t6BYtfr9M6.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  animation: slide 20s linear infinite;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-}
-
-.title {
-  font-size: 10vw;
-  color: white;
-}
-
-canvas {
-  width: 100%;
+@keyframes slide {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
 }
