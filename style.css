@@ -9,13 +9,6 @@
         margin: 0
       }
 	  
-	  .header-home {
-	    display: flex;
-	    flex-direction: row;
-	    justify-content: center;
-	    align-items: center;
-	  }
-	  
       main {
         display: block
       }
@@ -37,7 +30,7 @@
       }
 
       a {
-        background-color: transparent
+        background-color: #000;
       }
 
       abbr[title] {
