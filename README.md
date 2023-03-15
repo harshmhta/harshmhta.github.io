@@ -1,4 +1,4 @@
-# Harsh Portfolio
+# Harsh's Portfolio
 This repository contains a simple HTML file that redirects to the official portfolio website of Harsh - www.harsh.bio.
 
 ## About Harsh
