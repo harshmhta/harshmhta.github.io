@@ -1,5 +1,5 @@
 # Harsh's Portfolio
-This repository contains a simple HTML file that redirects to the official portfolio website of Harsh - www.harsh.bio.
+This repository contains a simple HTML file that redirects to the official portfolio website of Harsh - harshsportfolio.webflow.io/.
 
 ## About Harsh
 Harsh is a skilled software engineer, web developer and designer with a passion for creating engaging and dynamic websites. His portfolio website showcases his projects, skills, and experience, giving potential employers a glimpse into his expertise and capabilities.
